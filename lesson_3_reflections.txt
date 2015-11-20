@@ -1,1 +1,4 @@
 At the top of your GitHub repository's Quick Setup page, click to copy the remote repository URL.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+You may also want to commit and push your changes. When you're finished, click "Next".
