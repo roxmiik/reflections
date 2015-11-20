@@ -1,0 +1,1 @@
+At the top of your GitHub repository's Quick Setup page, click to copy the remote repository URL.
